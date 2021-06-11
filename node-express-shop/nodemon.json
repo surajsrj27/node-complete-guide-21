@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "shopcart",
+        "MONGO_PASSWORD": "shopcart",
+        "MONGO_DEFAULT_DATABASE": "shop",
+        "STRIPE_KEY": "sk_test_51GakRIFhNf4piLV4fpgpHaF552LHIrwqIr56YVDIAEewXdyCHwJVNm1Q6GvwM529qKyhAK0ZL633Jr2G9F8pNInr00xbKJ5zsR"
+    }
+}
